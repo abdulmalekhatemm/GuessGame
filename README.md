@@ -1,6 +1,6 @@
 # 🎯 Guess Word Game
 
-![Guess Word Game](http://127.0.0.1:5501/index.html)
+![Guess Word Game](https://img.shields.io/badge/Game-HTML%2FCSS%2FJS-blue?style=for-the-badge&logo=html5)
 
 ## 🚀 وصف المشروع
 لعبة تخمين الكلمات تفاعلية مكتوبة بـ **HTML, CSS, و JavaScript**.  
