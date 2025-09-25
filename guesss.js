@@ -212,3 +212,5 @@ window.onload = function () {
     generateInput();
 
 }
+
+//all console.log()  For Test Just 
