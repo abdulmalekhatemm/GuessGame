@@ -67,7 +67,7 @@ inputs.forEach((input , index) => {
     input.addEventListener("keydown", function (event){
         //this.value = this.value.toUpperCase();remove 
 
-       // console.log(event);
+       // console.log(event); for test just can i do 
        const currentIndex = Array.from(inputs).indexOf(event.target);//target after event Or this
 
        //console.log(currentIndex);
